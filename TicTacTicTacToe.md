@@ -1,7 +1,9 @@
 ## Owner
 
 Ethan McMichael
+
 ethanmcmike@gmail.com
+
 Chicago, IL
 
 ## Data Collection
